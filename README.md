@@ -1,7 +1,8 @@
 This repository includes all the tasks to be done in the Graduate Rotational Internship Program (GRIP) offered by TSF in the ML/DL domain.
 The tasks includes -
 
-      (A) Task_1 --> LinkedIn task which is mandatory for all. We have to improve our LinkedIn Profile.
+      (A) Task_1 --> LinkedIn task which is mandatory for all.
+We have to improve our LinkedIn Profile.
       
       (B) Task_2 --> To Explore Supervised Machine Learning. 
 In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables. Data can be found at http://bit.ly/w-data . 
